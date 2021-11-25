@@ -30,9 +30,12 @@ SDK（选择T-Head）： https://occ.t-head.cn/community/download?id=61621513233
 
 {% img /image/zadig_use.png %}
 
+{% img /image/cklink_zadig.png %},
 替换完成后，再次打开T-head-debug-server， 即可
 
 {% img /image/debug-server.png %},
+
+
 
 特别注意，线的链接顺序
 
